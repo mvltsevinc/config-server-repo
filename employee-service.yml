@@ -1,1 +1,2 @@
-msg: Config from repo
+params:
+  msg: Config from repo
